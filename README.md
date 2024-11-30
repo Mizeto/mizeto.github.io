@@ -3,6 +3,9 @@
 -h2Nick Name : Poke
 -h2Age : 21
 -h2Major : CS05
+
+<br>
+
 ![About Me](My IMG/ME.jpg)
 
-[Click Me](algorithm.md)
+[#Click Me](algorithm.md)
