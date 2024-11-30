@@ -2,4 +2,4 @@
 - Nattawut Supapat
   - Pok
 
-![About Me](My/ME.jpg)
+![About Me](My IMG/ME.jpg)
