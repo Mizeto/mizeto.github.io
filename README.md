@@ -1,11 +1,11 @@
 # My Pages 6530200169
--h2Name : Nattawut Supapat
--h2Nick Name : Poke
--h2Age : 21
--h2Major : CS05
+-Name : Nattawut Supapat
+-Nick Name : Poke
+-Age : 21
+-Major : CS05
 
 <br>
 
 ![About Me](My IMG/ME.jpg)
 
-[#Click Me](algorithm.md)
+#[Click Me](algorithm.md)
