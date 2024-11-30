@@ -1,4 +1,4 @@
 # Algorithm
-- Algorithm (CISSP)
- - 
-- Algorithm
+| Algorithm (CISSP) | Algorithm (NIST) |
+| 
+
