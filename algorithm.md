@@ -2,9 +2,9 @@
 <h1> | From -> CISSP | </h1>
 - <h3> "A mathematical function that is used in the encryption and decryption processes." </h3>
 - <h2> |Translate From ChatGPT | </h2>
-  - <h3> "ฟังก์ชันทางคณิตศาสตร์ที่ใช้ในกระบวนการเข้ารหัสและถอดรหัส" <h/3>
+  - <h3> "ฟังก์ชันทางคณิตศาสตร์ที่ใช้ในกระบวนการเข้ารหัสและถอดรหัส" </h3>
 - <h2> |Translate From Gemini | </h2>
-    - <h3> "กระบวนการตรวจสอบสิทธิ์ของระบบนี้ใช้ชุดกฎที่กำหนดไว้ชัดเจนในการเปรียบเทียบข้อมูลผู้ใช้กับฐานข้อมูล" <h/3>
+    - <h3> "กระบวนการตรวจสอบสิทธิ์ของระบบนี้ใช้ชุดกฎที่กำหนดไว้ชัดเจนในการเปรียบเทียบข้อมูลผู้ใช้กับฐานข้อมูล" </h3>
 <h3>[ Ref -> "https://www.isc2.org/certifications/cissp/cissp-student-glossary" ]</h3>
 <br>
 <h1> | From -> NIST | </h1>
