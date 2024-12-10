@@ -4,6 +4,6 @@
 - ## Age : 21
 - ## Major : CS05
 
-![About Me](My IMG/ME.jpg)
+![About Me](MyIMG/ME.jpg)
 
 [Click Me](algorithm.md)
