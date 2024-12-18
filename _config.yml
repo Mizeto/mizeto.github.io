@@ -1,12 +1,12 @@
 title: Custom Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+description: Welcome To GitHub Page Me.
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#000"
   gradient_left: "#8000E8"
   gradient_right: "#EADA00"
-logo_url: ./MyIMG/HSR LOGO.png
+logo_url: ![Logo](https://raw.githubusercontent.com/MyIMG/HSR LOGO.png)
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/tuur29/pages-themes-cayman
