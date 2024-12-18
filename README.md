@@ -6,4 +6,4 @@
 
 ![About Me](MyIMG/ME.jpg)
 
-[Click Me](algorithm.md)
+[algorithm](algorithm.md)
