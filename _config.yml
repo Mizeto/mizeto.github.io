@@ -3,7 +3,7 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
-  header: "#000"
+  header: "#EADA00"
   gradient_left: "#8000E8"
   gradient_right: "#EADA00"
 logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
