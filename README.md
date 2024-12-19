@@ -8,4 +8,4 @@
 
 [algorithm](algorithm.md)
 
-[E-Card]()
+[e-card](e-card.md)
