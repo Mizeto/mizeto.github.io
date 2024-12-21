@@ -6,6 +6,6 @@
 
 ![About Me](MyIMG/ME.jpg)
 
-[algorithm](algorithm.md)
+# [algorithm](algorithm.md)
 
-[e-card](e-card.md)
+# [e-card](e-card.md)
