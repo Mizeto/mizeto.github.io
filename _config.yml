@@ -4,8 +4,8 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: [Mizeto]
-description: [Welcome To My Githubpage ]
+description: [Welcome To My Github page ]
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
 
