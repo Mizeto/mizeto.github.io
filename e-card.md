@@ -4,7 +4,7 @@
 - ### ใช้ Canva ในการจัดทำ
 
 
-![christmas card](MyIMG/e-cardchristmas.png)
+![christmas card](MyIMG/e-cardchristmasRe.png)
 
 
 ## [<-- back](README.md)
