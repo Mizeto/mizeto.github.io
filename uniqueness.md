@@ -3,15 +3,18 @@
   #### -> https://www.datafold.com/blog/data-quality-dimensions
 
 
-## Definition -> "There are no data duplications."
+## | Definition |
+  #### -> "There are no data duplications."
   
 
 ## | Meaning From ChatGPT | 
-  - #### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน" หรือ "ไม่มีการทำสำเนาข้อมูลซ้ำ"
+  - #### "There are no data duplications."
+  - ### -> "ไม่มีข้อมูลซ้ำซ้อน" หรือ "ไม่มีการทำสำเนาข้อมูลซ้ำ"
 
 
 ## | Meaning From Gemini | 
-  - #### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน"
+  - #### "There are no data duplications."
+  - #### -> "ไม่มีข้อมูลซ้ำซ้อน"
 
 
 ## | My Summary |
