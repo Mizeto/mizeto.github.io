@@ -1,10 +1,10 @@
 # Uniqueness
 ## | Ref |
-  #### -> https://www.datafold.com/blog/data-quality-dimensions
+#### -> https://www.datafold.com/blog/data-quality-dimensions
 
 
 ## | Definition |
-  #### -> "There are no data duplications."
+#### -> "There are no data duplications."
   
 
 ## | Meaning From ChatGPT | 
