@@ -1,12 +1,12 @@
 # Uniqueness
 ## | Ref |
 
-#### -> https://www.datafold.com/blog/data-quality-dimensions
+- #### -> https://www.datafold.com/blog/data-quality-dimensions
 
 
 ## | Definition |
 
-#### -> "There are no data duplications."
+- #### -> "There are no data duplications."
   
 
 ## | Meaning From ChatGPT | 
@@ -33,6 +33,8 @@
       - #### ครั้งที่ 2: ชื่อ "สมชาย สมใจ", เบอร์โทร "081-2345678"
 
     #### เกิดการบันทึก 2 ครั้ง ทำให้เป็นข้อมูลซ้ำซ้อน(Duplication)
+
+
 
   - ### ไม่มีข้อมูลซ้ำซ้อน:
       
