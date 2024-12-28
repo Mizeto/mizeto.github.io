@@ -1,5 +1,5 @@
 # Uniqueness
-# | Ref -> https://www.datafold.com/blog/data-quality-dimensions | 
+## | Ref -> https://www.datafold.com/blog/data-quality-dimensions | 
 - ## Definition -> "There are no data duplications."
   -  ### Explain :
         - ### Uniqueness in data quality means that each piece of data is different from the rest and shows up only once. It's like having a class where every kid has a different name; it makes roll call a lot easier. If your data isn't unique, you might count the same thing twice or mix stuff up.
@@ -13,15 +13,15 @@
 - ## | Meaning From ChatGPT | 
     - ### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน" หรือ "ไม่มีการทำสำเนาข้อมูลซ้ำ"
 
-- ## | Meaning From Gemini | 
+## | Meaning From Gemini | 
     - ### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน"
 
 
-# | My Summary |
+## | My Summary |
   - ### "ไม่มีข้อมูลซ้ำซ้อน" หรือ "ไม่มีการทำสำเนาข้อมูลซ้ำ" คือการจัดการข้อมูลให้ไม่เกิดการบันทึกซ้ำของข้อมูลเดียวกันในระบบ." 
 
 
-# | Simple | 
+## | Simple | 
   - ### ข้อมูลซ้ำซ้อน:
       ### ลูกค้าคนเดียวกัน (เช่น นายสมชาย) ถูกบันทึกในระบบสองครั้ง:
       - ### ครั้งที่ 1: ชื่อ "สมชาย สมใจ", เบอร์โทร "081-2345678"
