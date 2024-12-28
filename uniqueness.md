@@ -9,8 +9,10 @@
 
   - #### Measuring uniqueness requires checking for duplicates. You can sort the data to see if anything shows up more than once or use software to find duplicates for you. If you find that 5 out of 100 records are duplicates, your data's uniqueness could be considered 95% unique. The goal is to make sure each piece of data is a "one and only" so you can trust what it's telling you.
 
-- ## | Meaning From ChatGPT | 
+
+## | Meaning From ChatGPT | 
     - ### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน" หรือ "ไม่มีการทำสำเนาข้อมูลซ้ำ"
+
 
 ## | Meaning From Gemini | 
     - ### "There are no data duplications." -> "ไม่มีข้อมูลซ้ำซ้อน"
