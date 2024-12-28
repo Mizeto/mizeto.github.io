@@ -1,6 +1,6 @@
 # Uniqueness
 ## | Ref -> https://www.datafold.com/blog/data-quality-dimensions | 
-- ## Definition -> "There are no data duplications."
+## - Definition -> "There are no data duplications."
     ### Explain :
         - ### Uniqueness in data quality means that each piece of data is different from the rest and shows up only once. It's like having a class where every kid has a different name; it makes roll call a lot easier. If your data isn't unique, you might count the same thing twice or mix stuff up.
 
