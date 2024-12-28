@@ -1,7 +1,7 @@
 # Uniqueness
 ## | Ref -> https://www.datafold.com/blog/data-quality-dimensions | 
 - ## Definition -> "There are no data duplications."
-  -  ### Explain :
+    ### Explain :
         - ### Uniqueness in data quality means that each piece of data is different from the rest and shows up only once. It's like having a class where every kid has a different name; it makes roll call a lot easier. If your data isn't unique, you might count the same thing twice or mix stuff up.
 
         - ### Uniqueness is similar to completeness, but focuses on identifying and removing duplicate data. Duplicate data can show up in primary keys, as duplicate rows in one or more tables, or even as entire tables. It’s not uncommon to see tables called “customers'' and “customers_v1” in the same database.
