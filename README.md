@@ -1,6 +1,6 @@
 # My Pages 6530200169 Nattawut Supapat
 
-# Welcome To My Git Page
+# Welcome To My Github Page
 - ## Bookmark Content
   - **[Glossary : Algorithm](algorithm.md)**
   - **[E-Card Christmas](e-card.md)**
