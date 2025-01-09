@@ -3,9 +3,9 @@
 
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
-###### - [Sir. Wilit Kronkulsri](6530200461.github.io/board-game)
+###### - [Sir. Wilit Kronkulsri](https://6530200461.github.io/board-game)
 ###### - [Sir. Krittiphon Yoonaitham]()
-###### - [Sir. Pichaya Soising](6530250158.github.io/board-game)
+###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
 
 ## วันที่ทำกิจกรรม
 **วันพฤหัสบดี ที่ 9 มกราคม พ.ศ. 2568 ณ หอพักนิสิต มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
@@ -29,12 +29,12 @@
 
 
 ## ภาพกิจกรรม
-![GamePlay1](/img/GamePlay1.png)
-![GamePlay2](/img/GamePlay2.png)
-![Group_photo](/img/BoardGame_Group_photo.jpg)
+![GamePlay1](/MyImg/GamePlay1.png)
+![GamePlay2](/MyImg/GamePlay2.png)
+![Group_photo](/MyImg/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
-[![Cyber Board Game](/img/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
+[![Cyber Board Game](/MyImg/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
 
 ## ปล.
 ###### ทางกลุ่มผู้จัดทำได้ขออนุญาตน้องๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
