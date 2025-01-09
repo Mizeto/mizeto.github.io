@@ -2,7 +2,7 @@
 # Cyber Board Game By SiR Dear ZDark 
 
 ##### สมาชิกคนอื่นในกลุ่ม
-###### - [Sir. Ratthakit kotcharin]([6530200401.github.io/board-game](https://6530200401.github.io/board-game))
+###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
 ###### - [Sir. Wilit Kronkulsri](6530200461.github.io/board-game)
 ###### - [Sir. Krittiphon Yoonaitham]()
 ###### - [Sir. Pichaya Soising](6530250158.github.io/board-game)
