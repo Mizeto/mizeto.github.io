@@ -10,13 +10,12 @@
 ![About Me](MyIMG/ME.jpg)
 
 # About Me
-# Profile
 - **Name : Nattawut Supapat
   - Nick Name : Poke
   - Age : 22
   - Faculty : Science Sriracha
   - Major : CS05
   - KUSRC 65  
-
+  - Email : natttawut.s@ku.th
 
 
