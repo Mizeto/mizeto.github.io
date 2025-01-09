@@ -3,9 +3,9 @@
 
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
-######- [Sir. Wilit Kronkulsri](https://6530200461.github.io/board-game)
-######- [Sir. Krittiphon Yoonaitham]()
-######- [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
+###### - [Sir. Wilit Kronkulsri](https://6530200461.github.io/board-game)
+###### - [Sir. Krittiphon Yoonaitham]()
+###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
 
 ## วันที่ทำกิจกรรม
 **วันพฤหัสบดี ที่ 9 มกราคม พ.ศ. 2568 ณ หอพักนิสิต มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
