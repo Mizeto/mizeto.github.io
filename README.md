@@ -1,4 +1,4 @@
-# My Pages 6530200169 Nattawut Supapat
+# 6530200169-Nattawut Supapat
 
 # Welcome To My Github Page
 - ## Bookmark Content
