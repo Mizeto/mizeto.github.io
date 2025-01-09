@@ -4,7 +4,7 @@
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
 ###### - [Sir. Wilit Kronkulsri](https://6530200461.github.io/board-game)
-###### - [Sir. Krittiphon Yoonaitham]()
+###### - [Sir. Krittiphon Yoonaitham](https://1Dev04.github.io/board-game)
 ###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
 
 ## วันที่ทำกิจกรรม
