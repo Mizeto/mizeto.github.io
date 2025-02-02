@@ -1,6 +1,6 @@
 # Security Control
 
-# 📷 กล้องวงจรปิด CCTV 📷
+# 📹 กล้องวงจรปิด CCTV 📹
 
 * ### locattion : หอในแอ๊กกี้ ตึก 2
 * ### Type of SecurityControl : Physical Control
