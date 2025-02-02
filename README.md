@@ -5,7 +5,7 @@
 ![About Me](MyIMG/ME.jpg)
 
 # About Me
-- **📋 Personal Information  **
+- ** 📋 Personal Information  **
   - Name : Nattawut Supapat
   - Nick Name : Poke
   - Age : 22
