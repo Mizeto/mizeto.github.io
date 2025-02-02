@@ -17,7 +17,7 @@ Feel free to check out my projects and connect with me!
   - 🎓 Classyear : 3rd Year
   - 🔬 Faculty : Science Sriracha
   - 💻 Major : CS05
-  - 🏫 University:** Kasetsart University at Si Racha Campus
+  - 🏫 University: Kasetsart University at Si Racha Campus
 
  ---
  
