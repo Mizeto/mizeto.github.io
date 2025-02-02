@@ -2,13 +2,13 @@
 
 ## 📷 กล้องวงจรปิด CCTV 📷
 
-![CCTV](MyIMG/CCTV.jpg)
-
 * ### locattion : หอในแอ๊กกี้ ตึก 2
 * ### Type of SecurityControl : Physical Control
 * ### Control Function : Detective
 
-  
+![CCTV](MyIMG/CCTV.jpg)
+
+
 ![CCTVwhitMe](MyIMG/CCTV_Me.jpg)
 
 
