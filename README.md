@@ -2,17 +2,24 @@
 
 # Welcome To My Github Page
 
+# About Me
+I’m a 3rd-year Computer Science student passionate about coding, technology, and problem-solving.  
+Feel free to check out my projects and connect with me! 
+
 ![About Me](MyIMG/ME.jpg)
 
-# About Me
-- **📋 Personal Information**
-  - Name : Nattawut Supapat
-  - Nick Name : Poke
-  - Age : 22
-  - Faculty : Science Sriracha
-  - Major : CS05
-  - KUSRC 65  
-  - Email : natttawut.s@ku.th
+
+- ** Personal Information**
+  - 👤 Name : Nattawut Supapat
+  - 👤 Nick Name : Poke
+  - 👨‍🎓 Age : 22
+  - 🎓 Classyear : 3rd Year
+  - 🔬 Faculty : Science Sriracha
+  - 💻 Major : CS05
+  - 🏫 University:** Kasetsart University at Si Racha Campus
+ 
+- ** Contact Me**
+  - 📧 Email : natttawut.s@ku.th
 
 # Bookmark Content
   - **[Glossary : Algorithm](algorithm.md)**
