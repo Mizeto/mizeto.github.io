@@ -1,13 +1,6 @@
 # 6530200169-Nattawut Supapat
 
 # Welcome To My Github Page
-- ## Bookmark Content
-  - **[Glossary : Algorithm](algorithm.md)**
-  - **[E-Card Christmas](e-card.md)**
-  - **[Data Quality : Uniqueness](uniqueness.md)**
-  - **[Cyber Board Game](board-game.md)**
-  - **[Security Controls](security-control)**
-  - **[Pao Elections](pao-elections.md)**
 
 ![About Me](MyIMG/ME.jpg)
 
@@ -20,4 +13,10 @@
   - KUSRC 65  
   - Email : natttawut.s@ku.th
 
-
+- ## Bookmark Content
+  - **[Glossary : Algorithm](algorithm.md)**
+  - **[E-Card Christmas](e-card.md)**
+  - **[Data Quality : Uniqueness](uniqueness.md)**
+  - **[Cyber Board Game](board-game.md)**
+  - **[Security Controls](security-control)**
+  - **[Pao Elections](pao-elections.md)**
