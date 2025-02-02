@@ -11,8 +11,8 @@ Feel free to check out my projects and connect with me!
 ---
 
 - **Personal Information**
-  - 👤 Name : Nattawut Supapat
-  - 👤 Nick Name : Poke
+  - 🧑 Name : Nattawut Supapat
+  - 😉 Nick Name : Poke
   - 👨‍🎓 Age : 22
   - 🎓 Classyear : 3rd Year
   - 🔬 Faculty : Science Sriracha
