@@ -34,20 +34,14 @@ Feel free to check out my projects and connect with me!
 ---
 
 # Bookmark Content
-### InfoSysSec Glossary
   - **[Glossary : Algorithm](algorithm.md)**
 
-### Christmas & New Year 2025
   - **[E-Card Christmas](e-card.md)**
 
-### Data Quality 
   - **[Data Quality : Uniqueness](uniqueness.md)**
 
-### Securing the Human
   - **[Cyber Board Game](board-game.md)**
 
-### Security Controls
   - **[Security Controls](security-control)**
 
-### 2025 PAO Elections
   - **[Pao Elections](pao-elections.md)**
