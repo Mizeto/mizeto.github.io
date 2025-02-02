@@ -5,7 +5,8 @@
 ![About Me](MyIMG/ME.jpg)
 
 # About Me
-- **Name : Nattawut Supapat**
+- **📋 Personal Information  **
+  - Name : Nattawut Supapat
   - Nick Name : Poke
   - Age : 22
   - Faculty : Science Sriracha
