@@ -6,6 +6,7 @@
   - **[E-Card Christmas](e-card.md)**
   - **[Data Quality : Uniqueness](uniqueness.md)**
   - **[Cyber Board Game](board-game.md)**
+  - **[Security Controls](security-control)**
   - **[Pao Elections](pao-elections.md)**
 
 ![About Me](MyIMG/ME.jpg)
