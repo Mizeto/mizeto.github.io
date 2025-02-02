@@ -30,18 +30,14 @@ Feel free to check out my projects and connect with me!
  
 - **Contact Me**
   - 📧 Email : natttawut.s@ku.th
+  - 📞 Tell : 063-082-1353
  
 ---
 
 # Bookmark Content
   - **[Glossary : Algorithm](algorithm.md)**
-
   - **[E-Card Christmas](e-card.md)**
-
   - **[Data Quality : Uniqueness](uniqueness.md)**
-
   - **[Cyber Board Game](board-game.md)**
-
   - **[Security Controls](security-control)**
-
   - **[Pao Elections](pao-elections.md)**
