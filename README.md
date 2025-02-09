@@ -40,4 +40,5 @@ Feel free to check out my projects and connect with me!
   - **[Data Quality : Uniqueness](uniqueness.md)**
   - **[Cyber Board Game](board-game.md)**
   - **[Security Controls](security-control)**
+  - **[Security Requirements](security-requirements)**
   - **[Pao Elections](pao-elections.md)**
